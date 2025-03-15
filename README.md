@@ -2,7 +2,7 @@
 
 > **Archetype:** Node.js package
 
-**extalibur** change the extension on a path or remove it using a well engineered atomic function.
+**extalibur** changes the extension on a path or removes it using a well engineered atomic function.
 
 ## Install
 
